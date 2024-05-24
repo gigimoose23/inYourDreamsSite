@@ -16,4 +16,4 @@ COPY . .
 # Start the server using the production build
 CMD [ "node", "index.js" ]
 
-EXPOSE 7000
+EXPOSE 80
